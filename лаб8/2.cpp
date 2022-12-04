@@ -8,6 +8,7 @@ using namespace std;
 
 int main()
 {
+    cout << "menu" << endl;
     float z, x, y, c, sum;
     int h;
     cout << "type z x y a";
